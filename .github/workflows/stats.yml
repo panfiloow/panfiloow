@@ -2,22 +2,29 @@ name: Update GitHub Stats
 
 on:
   schedule:
-    # Запускать каждый день в 00:00 UTC
-    - cron: '0 0 * * *'
-  workflow_dispatch: # Позволяет запускать вручную
+    - cron: '0 */6 * * *'  # Каждые 6 часов
+  workflow_dispatch:        # Ручной запуск
 
 jobs:
   update-stats:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         
-      - name: Update README
+      - name: Update timestamp in README
         run: |
-          # Просто делаем коммит, чтобы обновить timestamp
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          # Обновляем временную метку в README
+          CURRENT_DATE=$(date -u '+%Y-%m-%d %H:%M:%S UTC')
+          sed -i "s/Last updated:.*/Last updated: $CURRENT_DATE/" README.md
+          
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "📊 Auto-update GitHub stats" || exit 0
+          git diff --staged --quiet || git commit -m "📊 Auto-update stats - $(date -u '+%Y-%m-%d %H:%M')"
           git push
