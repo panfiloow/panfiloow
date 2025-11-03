@@ -55,17 +55,24 @@ print(me.say_hello())
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 📊 Статистика GitHub
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![Илья's GitHub Stats](https://github-readme-stats.vercel.app/api?username=panfiloow&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=panfiloow&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)
+### 🏆 Профиль
+![Trophy](https://github-profile-trophy.vercel.app/?username=panfiloow&theme=radial&no-frame=true&row=1&column=4)
+
+### 📈 Статистика
+![Stats](https://github-readme-stats.vercel.app/api?username=panfiloow&show_icons=true&theme=radical&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=panfiloow&layout=compact&theme=radical&hide_border=true)
+
+### 🔥 Активность
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=panfiloow&theme=radical&hide_border=true)
+
+### 📊 График
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=panfiloow&theme=github-dark&hide_border=true&area=true)
 
 </div>
-
----
-*Last updated: {{ date }}*
 
 
 ## 🎓 Образование
