@@ -60,14 +60,12 @@ print(me.say_hello())
 <div align="center">
 
 ### 📈 Статистика
-![Stats](https://github-readme-stats.vercel.app/api?username=panfiloow&show_icons=true&theme=radical&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=panfiloow&show_icons=true&theme=radical&hide_border=true&hide=stars,prs,issues,fork&count_private=true)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=panfiloow&layout=compact&theme=radical&hide_border=true)
 
 ### 🔥 Активность
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=panfiloow&theme=radical&hide_border=true)
 
-### 📊 График
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=panfiloow&theme=github-dark&hide_border=true&area=true)
 
 </div>
 
