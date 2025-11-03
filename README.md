@@ -59,9 +59,6 @@ print(me.say_hello())
 
 <div align="center">
 
-### 🏆 Профиль
-![Trophy](https://github-profile-trophy.vercel.app/?username=panfiloow&theme=radial&no-frame=true&row=1&column=4)
-
 ### 📈 Статистика
 ![Stats](https://github-readme-stats.vercel.app/api?username=panfiloow&show_icons=true&theme=radical&hide_border=true)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=panfiloow&layout=compact&theme=radical&hide_border=true)
