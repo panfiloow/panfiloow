@@ -59,8 +59,8 @@ print(me.say_hello())
 
 <div align="center">
 
-![Илья's GitHub Stats](https://github-readme-stats.vercel.app/api?username=panfiloow&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=panfiloow&layout=compact&theme=radical&hide_border=true)
+![Илья's GitHub Stats](https://github-readme-stats.vercel.app/api?username=panfiloow&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800&random=$((RANDOM*RANDOM))
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=panfiloow&layout=compact&theme=radical&hide_border=true&cache_seconds=1800&random=$((RANDOM*RANDOM))
 
 </div>
 
