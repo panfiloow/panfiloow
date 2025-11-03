@@ -59,10 +59,13 @@ print(me.say_hello())
 
 <div align="center">
 
-![Илья's GitHub Stats](https://github-readme-stats.vercel.app/api?username=panfiloow&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800&random=$((RANDOM*RANDOM))
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=panfiloow&layout=compact&theme=radical&hide_border=true&cache_seconds=1800&random=$((RANDOM*RANDOM))
+![Илья's GitHub Stats](https://github-readme-stats.vercel.app/api?username=panfiloow&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=panfiloow&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)
 
 </div>
+
+---
+*Last updated: {{ date }}*
 
 
 ## 🎓 Образование
