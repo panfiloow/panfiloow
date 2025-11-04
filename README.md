@@ -55,20 +55,6 @@ print(me.say_hello())
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-### 📈 Статистика
-![Stats](https://github-readme-stats.vercel.app/api?username=panfiloow&show_icons=true&theme=radical&hide_border=true&hide=stars,prs,issues,fork&count_private=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=panfiloow&layout=compact&theme=radical&hide_border=true)
-
-### 🔥 Активность
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=panfiloow&theme=radical&hide_border=true)
-
-
-</div>
-
 
 ## 🎓 Образование
 
@@ -90,6 +76,3 @@ print(me.say_hello())
 
 
 
-
----
-*Last updated: 2025-11-04 12:57:33 UTC
